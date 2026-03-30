@@ -1,5 +1,5 @@
-# Help-Desk-Lab-2- Dissamble and Assemble-a-Desktop-Computer
-
+Help Desk Lab 2: Dissamble and Assemble a Desktop Computer
+______________________________________________________________________________________
 In a Help Desk or Desktop Support role, the ability to identify, install, and troubleshoot physical hardware is essential. This lab documents the end-to-end disassembly and assembly of a desktop computer, ensuring all subsystems (Power, Processing, Storage, and Cooling) are correctly integrated and functional.
 ______________________________________________________________________________________
 
@@ -24,7 +24,8 @@ I unseated the RAM modules and removed the CPU cooling assembly. Finally, I care
 
 Key Action: Using isopropyl alcohol (90%+) to clean the old thermal paste off the CPU and Heatsink for clean storage.
 
-4. Summary & Conclusion
+______________________________________________________________________________________
+Summary & Conclusion
 The disassembly was completed successfully with zero "re-work" or physical damage to the hardware. All components were categorized and stored in anti-static packaging.
 
 Key Takeaways:
@@ -58,7 +59,8 @@ Key Action: Connecting the Front Panel Headers (Power SW, Reset SW, HDD LED) acc
 Phase 4: Verification & POST
 The final step involved connecting a monitor and peripherals to verify the Power-On Self-Test (POST). I accessed the UEFI/BIOS to confirm that the CPU temperature was stable and that all RAM modules and storage drives were recognized by the system.
 
-4. Summary & Conclusion
+________________________________________________________________________________________
+Summary & Conclusion
 The assembly was successful, and the system passed the initial POST on the first attempt.
 
 Key Takeaways:
